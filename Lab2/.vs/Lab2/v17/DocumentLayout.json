@@ -1,10 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\svidi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\AIP\\Lab2\\",
+  "WorkspaceRootPath": "C:\\Users\\svidi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\AIP\\Svidich_Lab2\\Lab2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC038654-F029-4090-BF33-7F133E9A35A1}|Lab2\\Lab2.vcxproj|C:\\Users\\svidi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\AIP\\Lab2\\Lab2\\Lab2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DC038654-F029-4090-BF33-7F133E9A35A1}|Lab2\\Lab2.vcxproj|C:\\Users\\svidi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\AIP\\Svidich_Lab2\\Lab2\\Lab2\\Lab2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DC038654-F029-4090-BF33-7F133E9A35A1}|Lab2\\Lab2.vcxproj|solutionrelative:Lab2\\Lab2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +17,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Microsoft.CppCommon.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets",
+              "ViewState": "AQIAANYCAAAAAAAAAAAqwNsCAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-05-09T10:19:01.634Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Lab2.cpp",
-              "DocumentMoniker": "C:\\Users\\svidi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\AIP\\Lab2\\Lab2\\Lab2.cpp",
+              "DocumentMoniker": "C:\\Users\\svidi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\AIP\\Svidich_Lab2\\Lab2\\Lab2\\Lab2.cpp",
               "RelativeDocumentMoniker": "Lab2\\Lab2.cpp",
-              "ToolTip": "C:\\Users\\svidi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\AIP\\Lab2\\Lab2\\Lab2.cpp",
+              "ToolTip": "C:\\Users\\svidi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\AIP\\Svidich_Lab2\\Lab2\\Lab2\\Lab2.cpp",
               "RelativeToolTip": "Lab2\\Lab2.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFsBAAAXAAAA",
+              "ViewState": "AQIAAGoBAAAAAAAAAAAAAIsBAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-23T13:42:22.925Z",
               "EditorCaption": ""

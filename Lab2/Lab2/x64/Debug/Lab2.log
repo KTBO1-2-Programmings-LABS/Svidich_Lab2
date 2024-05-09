@@ -1,4 +1,3 @@
 ﻿cl : командная строка  warning D9025: переопределение "/sdl" на "/GS-"
   Lab2.cpp
-C:\Users\svidi\OneDrive\Рабочий стол\AIP\Lab2\Lab2\Lab2.cpp(321,60): warning C4305: аргумент: усечение из "double" в "float"
-  Lab2.vcxproj -> C:\Users\svidi\OneDrive\Рабочий стол\AIP\Lab2\x64\Debug\Lab2.exe
+  Lab2.vcxproj -> C:\Users\svidi\OneDrive\Рабочий стол\AIP\Svidich_Lab2\Lab2\x64\Debug\Lab2.exe

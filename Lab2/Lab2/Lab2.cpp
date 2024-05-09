@@ -315,11 +315,6 @@ int main() {
 
     Student* head = NULL; // Инициализация списка студентов
 
-    // Добавление студентов в конец списка
-    appendStudent(&head, "Иванов Иван", 123, 3.5);
-    appendStudent(&head, "Петров Петр", 456, 4.0);
-    appendStudent(&head, "Сидоров Сидор", 789, 3.7);
-
     printStudents(head);
 
     // Переменные для меню
